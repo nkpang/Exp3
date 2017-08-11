@@ -6,5 +6,7 @@ public class Math {
         return a + b; 
 	}
 	
-	
+	static public int substract(int a, int b){
+	return a-b;
+	}
 }
